@@ -1,4 +1,29 @@
-### Hi there 👋
+### Olá 👋
+
+Aqui está um pouco sobre mim
+- 💥 Empreendedor
+- 🚀 Sócio & Dir. Inovação da ModalMais
+- 📈 Membro do Conselho da Eleven Financial
+- 🧑‍🚀 Fundador do Vaivoa Tech School
+
+_Fiquei de recuperação da 3ª série ao 3º colegial. Minha história com educação mudou aos 19. Trabalho todos os dias pra que educação seja pedra angular na carreira de muitos outros._
+
+#### Alguns milestones que tenho muito orgulho:
+
+- 🏆 Startup de Educação Mais Atraente do 🇧🇷
+- 🏆 Reconhecido como Community Giver em NYC 🇺🇸
+- ⭐️ 2019 | Primeiro Exit
+- ⭐️ 2021 | Adquirido pelo Banco Modal
+- 🛩️ Piloto de avião
+- 🏋️ Crossfit, Home Box
+
+#### Me siga nos canais:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebarreiros/)](https://www.linkedin.com/in/felipebarreiros/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/felipebarreiros/)](https://www.youtube.com/felipebarreiros)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/felipebarreiros/)](https://www.instagram.com/felipebarreiros/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/felipebarreiros/)](https://www.facebook.com/felipebarreiros/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/felipebarr)](https://twitter.com/felipebarr)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipebarreiros)](https://github.com/felipebarreiros)
 
 <!--
 **felipebarreiros/felipebarreiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
