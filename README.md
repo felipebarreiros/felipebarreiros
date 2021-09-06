@@ -2,7 +2,7 @@
 
 Aqui está um pouco sobre mim
 - 💥 &nbsp;Empreendedor
-- 🚀 &nbsp;Sócio & Dir. Inovação da ModalMais
+- 🚀 &nbsp;Sócio da ModalMais
 - 📈 &nbsp;Membro do Conselho da Eleven Financial
 - 🧑‍🚀 &nbsp;Fundador do Vaivoa Tech School
 
