@@ -1,21 +1,21 @@
 ### Olá 👋
 
 Aqui está um pouco sobre mim
-- 💥 Empreendedor
-- 🚀 Sócio & Dir. Inovação da ModalMais
-- 📈 Membro do Conselho da Eleven Financial
-- 🧑‍🚀 Fundador do Vaivoa Tech School
+- 💥 &nbsp;Empreendedor
+- 🚀 &nbsp;Sócio & Dir. Inovação da ModalMais
+- 📈 &nbsp;Membro do Conselho da Eleven Financial
+- 🧑‍🚀 &nbsp;Fundador do Vaivoa Tech School
 
 _Fiquei de recuperação da 3ª série ao 3º colegial. Minha história com educação mudou aos 19. Trabalho todos os dias pra que educação seja pedra angular na carreira de muitos outros._
 
 #### Alguns milestones que tenho muito orgulho:
 
-- 🏆 Startup de Educação Mais Atraente do 🇧🇷
-- 🏆 Reconhecido como Community Giver em NYC 🇺🇸
-- ⭐️ 2019 | Primeiro Exit
-- ⭐️ 2021 | Adquirido pelo Banco Modal
-- 🛩️ Piloto de avião
-- 🏋️ Crossfit, Home Box
+- 🏆 &nbsp;Startup de Educação Mais Atraente do 🇧🇷
+- 🏆 &nbsp;Reconhecido como Community Giver em NYC 🇺🇸
+- ⭐️ &nbsp;2019 | Primeiro Exit
+- ⭐️ &nbsp;2021 | Segundo Exit
+- 🛩️ &nbsp;Piloto de avião
+- 🏋️ &nbsp;Crossfit, Home Box
 
 #### Me siga nos canais:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebarreiros/)](https://www.linkedin.com/in/felipebarreiros/)
