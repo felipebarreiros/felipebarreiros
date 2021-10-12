@@ -6,7 +6,7 @@ Aqui está um pouco sobre mim
 - 📈 &nbsp;Membro do Conselho da Eleven Financial
 - 🧑‍🚀 &nbsp;Fundador do Vaivoa Tech School
 
-_Fiquei de recuperação da 3ª série ao 3º colegial. Minha história com educação mudou aos 19. Trabalho todos os dias pra que educação seja pedra angular na carreira de muitos outros._
+_Fiquei de recuperação da 3ª série ao 3º colegial. Minha história com educação mudou aos 19 quando passei 3 meses sendo pago para estudar. Trabalho todos os dias pra que educação seja pedra angular na carreira de muitos outros._
 
 #### Alguns milestones que tenho muito orgulho:
 
