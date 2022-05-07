@@ -1,11 +1,5 @@
 ### Olá 👋
 
-Aqui está um pouco sobre mim
-- 💥 &nbsp;Empreendedor
-- 🚀 &nbsp;Sócio da ModalMais
-- 📈 &nbsp;Membro do Conselho da Eleven Financial
-- 🧑‍🚀 &nbsp;Fundador da Vaivoa Tech School
-
 _Fiquei de recuperação da 3ª série ao 3º colegial. Minha história com educação mudou aos 19 quando passei trës meses sendo pago para estudar. Trabalho todos os dias pra que educação seja pedra angular na carreira de muitos outros._
 
 #### Alguns milestones que tenho muito orgulho:
